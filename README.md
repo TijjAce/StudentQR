@@ -1,5 +1,5 @@
 # StudentQR<br />
- ##open excel file(xlsx) from your phone with the QRCode technology##<br />
+ <h2>open excel file(xlsx) from your phone with the QRCode technology##</h2><br />
 #Before after all:<br />
 Needed to install in your phone:<br />
 -The Opera web naviguator<br />
