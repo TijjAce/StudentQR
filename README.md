@@ -1,4 +1,4 @@
-# StudentQR
+# StudentQR<br />
  ##open excel file(xlsx) from your phone with the QRCode technology<br />
 #Before after all:<br />
 Needed to install in your phone:<br />
